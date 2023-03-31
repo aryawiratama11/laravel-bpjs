@@ -1,5 +1,5 @@
 {
-    "name": "awageeks/laravel-bpjs",
+    "name": "aryawiratama11/laravel-bpjs",
     "description": "Wrapper for BPJS Indonesia Web Service API v3",
     "type": "package",
     "authors": [
@@ -15,8 +15,5 @@
             "Awageeks\\Bpjs\\": "src/"
         }
     },
-    "require": {
-        "guzzlehttp/guzzle": "~6.0",
-        "nullpunkt/lz-string-php": "dev-master"
-    }
+     
 }
